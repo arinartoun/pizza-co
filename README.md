@@ -1,4 +1,7 @@
-# Fast React Pizza
+# React Pizza Co.
+<img width="955" height="440" alt="Screenshot 2026-06-27 135747" src="https://github.com/user-attachments/assets/94ac38a8-4bd0-4f7f-af22-f08affd48e2e" />
+<img width="957" height="440" alt="Screenshot 2026-06-27 141205" src="https://github.com/user-attachments/assets/783e27f9-6f42-47bc-a171-8bb0e2c95811" />
+
 
 A responsive pizza-ordering single-page application built with React, TypeScript, Redux Toolkit, React Router, and Tailwind CSS. Customers can browse the menu, manage a cart, place an order, look up an existing order, and upgrade an order to priority delivery.
 
